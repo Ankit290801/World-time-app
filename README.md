@@ -1,8 +1,8 @@
-# world_time
+## World Time App
 
-A new Flutter project.
+A simple Flutter project.
 
-## Getting Started
+# App UI
 
 This project is a starting point for a Flutter application.
 
